@@ -1,0 +1,20 @@
+body {
+   background-image: url("https://media.gettyimages.com/photos/marble-texture-background-picture-id513061068?b=1&k=6&m=513061068&s=612x612&w=0&h=YzkLOLGdZFWd__Pq0V_ViIQ0G74LC1I_4LM-YvDpY-w=");
+}
+
+.centered {
+ position: absolute;
+ top: 50%;
+ left: 50%;
+ transform: translate(-50%, -50%);
+}
+
+.container {
+ position: relative;
+ text-align: center;
+ color: black;
+}
+
+.size {
+ font-size: 50px;
+}

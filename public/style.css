@@ -15,3 +15,34 @@
   font-size: 30px;
   
 }
+
+body {
+   background-image: url("https://media.gettyimages.com/photos/creative-background-with-abstract-oil-painted-waves-handmade-surface-picture-id610861102?b=1&k=6&m=610861102&s=612x612&w=0&h=jgOqskabV0ZHue-ER_bLo-DYFgZURyWvGPIcs7UU8ww=");
+}
+
+.centered {
+ position: absolute;
+ top: 50%;
+ left: 50%;
+ transform: translate(-50%, -50%);
+}
+
+.container {
+ position: relative;
+ text-align: center;
+ color: white;
+}
+
+.size {
+ font-size: 50px;
+}
+
+p {
+   font-family: "Times New Roman", Times, serif;
+}
+ 
+ h1 .container {
+ position: relative;
+ text-align: center;
+ color: black;
+}
